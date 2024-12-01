@@ -1,2 +1,3 @@
 nyanmisaka/jellyfin
 mattermost/mattermost-preview
+frooodle/s-pdf
