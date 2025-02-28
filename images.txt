@@ -1,3 +1,4 @@
 nyanmisaka/jellyfin
 mattermost/mattermost-preview
 frooodle/s-pdf
+homeassistant/home-assistant
